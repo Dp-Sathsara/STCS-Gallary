@@ -9,7 +9,7 @@ import { useLocation } from 'react-router-dom';
 // Mock data for demonstration purposes
 const mockPhotos = [{
   id: '1',
-  imageUrl: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb',
+  imageUrl: 'https://i.postimg.cc/Y0YSPDDx/Flux-Dev-A-serene-Buddha-statue-surrounded-by-vibrant-glowing-3.jpg',
   title: 'Mountain Landscape',
   patterns: [{
     id: 'p1',
